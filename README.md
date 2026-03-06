@@ -4,11 +4,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-I'm a senior Information Systems student at the **University of Texas at Arlington**, graduating **May 2026**. My passion lies at the intersection of cybersecurity and technology — I'm actively building the skills to detect, prevent, and respond to real-world security threats.
+---
 
-I'm currently pursuing the **Google Cybersecurity Professional Certificate** and plan to follow up with the **Microsoft Cybersecurity Analyst Professional Certificate**. I'm actively seeking entry-level cybersecurity roles in the **DFW area** where I can contribute and keep growing.
+I am a senior Information Systems student at the University of Texas at Arlington, graduating in May 2026, with a strong foundation in programming, data analysis, and business operations. My academic background has equipped me with technical proficiency in Python, Java, and SQL, as well as a comprehensive understanding of how technology supports and secures organizational objectives.
+
+My interest in cybersecurity stems from a deep commitment to protecting individuals and organizations from the ever-evolving landscape of digital threats. I am drawn to the analytical and problem-solving nature of the field — the need to think critically, anticipate vulnerabilities, and respond decisively. I am currently pursuing the Google Cybersecurity Professional Certificate, where I am developing hands-on skills in network security, SIEM tools, incident detection and response, and risk management frameworks such as NIST.
+
+I bring a unique perspective to cybersecurity by combining a technical skill set with a business-oriented mindset. My ability to understand both the operational and technological dimensions of an organization allows me to assess security risks not just in isolation, but in the context of broader business impact. I am committed to continuous learning, evidenced by my concurrent pursuit of the Python Institute PCEP certification, with plans to advance to the PCAP and the Microsoft Cybersecurity Analyst Professional Certificate.
+
+I am actively seeking an entry-level role as an IT Security Analyst or Cybersecurity Analyst in the DFW area, where I can contribute to a security-focused team, apply my growing skill set, and continue developing as a cybersecurity professional.
 
 ---
 
