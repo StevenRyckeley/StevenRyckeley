@@ -58,7 +58,7 @@ I am actively seeking an entry-level role as an IT Security Analyst or Cybersecu
 
 | Status | Certification |
 |---|---|
-| 🟡 In Progress | **Google Cybersecurity Professional Certificate** |
+| ✅ Complete | **Google Cybersecurity Professional Certificate** - Coursera (2026) |
 | 🟡 In Progress | **Python Institute PCEP** — Certified Entry-Level Python Programmer |
 | 🔲 Planned | **Microsoft Cybersecurity Analyst Professional Certificate** |
 | 🔲 Planned | **Python Institute PCAP** — Certified Associate in Python Programming |
